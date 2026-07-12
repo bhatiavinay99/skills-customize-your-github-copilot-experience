@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-sqlalchemy",
+      "title": "Working with Databases using SQLite & SQLAlchemy",
+      "description": "Persist data in SQLite using SQLAlchemy ORM: define schemas and perform CRUD operations.",
+      "path": "assignments/sqlite-sqlalchemy",
+      "dueDate": "2026-07-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
